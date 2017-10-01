@@ -1,0 +1,19 @@
+{
+  "name": "art-everywhere",
+  "version": "0.0.1",
+  "description": "Discover galleries, museums and sightseeings from UK, France and Italy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Besssy/art-everywhere.git"
+  },
+  "author": "Bessy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Besssy/art-everywhere/issues"
+  },
+  "homepage": "https://github.com/Besssy/art-everywhere#readme"
+}
